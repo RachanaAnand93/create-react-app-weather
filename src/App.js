@@ -6,6 +6,13 @@ export default function App() {
     <div className="App">
       <h1>Weather App</h1>
       <Weather />
+      <p>
+        <a href="https://github.com/RachanaAnand93/Weather-App">
+          {" "}
+          Open-source code
+        </a>
+        , by Rachana Anand
+      </p>
     </div>
   );
 }
