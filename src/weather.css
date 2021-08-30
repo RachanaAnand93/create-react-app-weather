@@ -1,0 +1,53 @@
+.Weather {
+  border: 2px solid #b6e1e0;
+  text-align: center;
+  font-family: sans-serif;
+  color: grey;
+  margin: 60px auto;
+  max-width: 600px;
+  padding: 15px;
+}
+h1 {
+  font-size: 30px;
+  font-weight: 400;
+  margin-left: 320px;
+  margin-top: 10px;
+}
+
+.Dates-description {
+  font: 14px;
+  list-style: none;
+  margin-left: 300px;
+  margin-top: 5px;
+}
+.Weather .Details {
+  list-style: none;
+  margin-left: -100px;
+  margin-top: -55px;
+  font-size: 14px;
+}
+img {
+  margin-top: -200px;
+  margin-left: -170px;
+  width: 80px;
+}
+
+.Weather .Temper {
+  margin-top: -120px;
+  margin-left: -15px;
+  font-size: 20px;
+  font-weight: 420;
+}
+button {
+  margin-right: 60px;
+  padding: 20px;
+  border-radius: 20px;
+}
+.Search-city {
+  width: 350px;
+  height: 38px;
+  padding: 3px;
+}
+p {
+  text-align: center;
+}
