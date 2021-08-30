@@ -10,7 +10,7 @@ export default function Weather() {
     setCity(event.target.value);
   }
   function getDetails(response) {
-    ///console.log(response.data.list[0].main.temp);
+    //console.log(response.data);
     setDisplay(true);
     setDetails({
       temp: response.data.list[0].main.temp,
