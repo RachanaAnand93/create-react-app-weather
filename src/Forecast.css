@@ -1,0 +1,12 @@
+.Forecast {
+  text-align: center;
+}
+.ForecastTemp-min {
+  opacity: 0.6;
+  margin-left: 5px;
+}
+.Forecast canvas {
+  margin-left: 5px;
+  margin-top: 5px;
+  padding: 0px;
+}
