@@ -6,6 +6,11 @@
   margin: 60px auto;
   max-width: 500px;
   padding: 15px;
+  background: radial-gradient(
+    253px at 12.6% 77.9%,
+    rgb(221, 255, 214) 0.3%,
+    rgb(214, 254, 254) 90.5%
+  );
 }
 h1 {
   font-size: 30px;
