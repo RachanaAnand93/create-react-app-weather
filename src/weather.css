@@ -8,10 +8,10 @@
   padding: 15px;
 }
 h1 {
-  font-size: 30px;
+  font-size: 40px;
   font-weight: 400;
   margin-left: 320px;
-  margin-top: 10px;
+  margin-top: 30px;
 }
 
 .Dates-description {
@@ -31,23 +31,29 @@ img {
   margin-left: -170px;
   width: 80px;
 }
+.Weather .Temp {
+  display: inline-block;
+  line-height: 38px;
+  padding-left: 38px;
+  vertical-align: top;
+  font-size: 12px;
+  margin-top: -46px;
+}
 
 .Weather .Temper {
-  margin-top: -120px;
-  margin-left: -15px;
-  font-size: 20px;
+  margin-top: -130px;
+  margin-left: -30px;
+  font-size: 30px;
   font-weight: 420;
 }
 button {
-  margin-right: 60px;
-  padding: 20px;
-  border-radius: 20px;
+  margin-right: 190px;
 }
+
 .Search-city {
   width: 350px;
-  height: 38px;
-  padding: 3px;
 }
 p {
   text-align: center;
+  margin-top: -50px;
 }
