@@ -8,7 +8,7 @@ export default function App() {
         <Weather defaultcity="Berlin" />
         <p>
           <a
-            href="https://github.com/RachanaAnand93/Weather-App"
+            href="https://github.com/RachanaAnand93/create-react-app-weather"
             target="_blank"
             rel="noreferrer"
           >
